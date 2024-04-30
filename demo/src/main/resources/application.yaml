@@ -4,3 +4,8 @@ spring:
 okta:
   oauth2:
     issuer: https://dev-21966571.okta.com/oauth2/default
+    audience: api://default
+    client-id: 0oagrq7tbezBdHFY85d7
+    client-secret: wJhXXqbmAFZ_klZQ1ud_5hj3by3Tgs8o7_Uko8TCSVW_ezAufQZJwVR9CBh8yGio
+    scopes:
+        - oktademo
