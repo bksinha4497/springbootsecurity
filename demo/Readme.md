@@ -69,3 +69,5 @@ Create Custom scope as “ custom “ in okta.
 use it to get token and use that token in apis.
 
 In order for someone to make a request to your API, they need an access token. How an access token is obtained depends on the client making the request
+
+Video Link : https://www.youtube.com/watch?v=_WDDMAkLEU8
