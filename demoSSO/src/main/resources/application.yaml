@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: demo
+okta:
+  oauth2:
+    issuer: https://dev-54682887.okta.com/oauth2/default
+    client-id: 0oagttwal5BAAIJxu5d7
+    client-secret: c-qCpkxEOmi8D3ts3PA2MVdzIGYUfu5d-TDgQyqDafrhR7RMVuh74fX6J13FWxZp
+    redirect-uri: /authorization-code/callback
+    scopes:
+        - openid
